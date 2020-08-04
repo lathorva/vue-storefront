@@ -1,0 +1,32 @@
+{
+  "mainBanners": [
+    {
+      "title": "Klær til kontoret",
+      "subtitle": "Se vår kolleksjon",
+      "image": "/assets/ban1.jpg",
+      "link": "/women.html"
+    }
+  ],
+  "smallBanners": [
+    {
+      "title": "Annet",
+      "subtitle": "Tilbehør",
+      "image": "/assets/ban2.jpg",
+      "link": "/men.html"
+    },
+    {
+      "title": "Høsten kommer",
+      "subtitle": "Hatter",
+      "image": "/assets/ban3.jpg",
+      "link": "/gear.html"
+    }
+  ],
+  "productBanners": [
+    {
+      "title": "Høsten kommer",
+      "subtitle": "Hatter",
+      "image": "/assets/ban3.jpg",
+      "link": "/gear.html"
+    }
+  ]
+}
