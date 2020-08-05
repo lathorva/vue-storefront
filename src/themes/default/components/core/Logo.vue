@@ -1,9 +1,9 @@
 <template>
-  <router-link :to="localizedRoute('/')" :title="$t('Home Page')" class="no-underline inline-flex">
+  <router-link :to="localizedRoute('/')" :title="$t('Home Page')" class="no-underline inline-flex" style="background-color:black">
     <img
       :width="width"
       :height="height"
-      src="/assets/logo.svg"
+      src="/assets/VP.png"
       :alt="$t(defaultTitle)"
     >
   </router-link>
